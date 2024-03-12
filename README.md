@@ -1,4 +1,4 @@
-# Convert the java code using maven
+# Convert the folder using maven
 Do it using the following command:
 
     mvn clean package
