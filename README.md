@@ -1,4 +1,4 @@
-# Convert the java code to low level code 
+# Convert the java code using maven
 Do it using the following command:
 
     mvn clean package
