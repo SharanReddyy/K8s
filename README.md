@@ -19,6 +19,7 @@ Push it to docker hub and pull using kubernetes yaml file.
 
 # Get minikube ip:
  Make sure to write the correct port number in the format <ip_address:port_number>
+    
     minikube ip
 
 # The output looks like:
